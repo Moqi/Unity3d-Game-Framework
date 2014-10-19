@@ -12,6 +12,9 @@
 /*.userprefs
 /*.pidb
 /*.booproj
+/U-Xia_Unity3dClientFramework/Library/*
+/U-Xia_Unity3dClientFramework/ProjectSettings/*
+/U-Xia_Unity3dClientFramework/Temp/*
 
 #Unity3D Generated File On Crash Reports
 sysinfo.txt
